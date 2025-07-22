@@ -1,6 +1,6 @@
 # 🌟 Random Quote Generator
 
-This is a simple web application that displays random quotes using the [Quotable API](https://api.quotable.io). You can switch between **dark/light mode**, and even **tweet the quote**!
+This is a simple web application that displays random quotes using the [Quotable API](https://api.quotable.io/quotes/random). You can switch between **dark/light mode**, and even **tweet the quote**!
 
 ## 🔧 Tech Used
 - HTML
